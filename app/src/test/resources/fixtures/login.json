@@ -1,0 +1,12 @@
+{
+ "token": "TEST-TOKEN-0123456789",
+ "user": {
+  "id": 2,
+  "email": "alex@demo.uz",
+  "fullName": "Alex Morgan",
+  "phone": "+998 90 123 45 67",
+  "role": "customer",
+  "shoeSizeEu": 42,
+  "memberSince": "2024-12-20T07:39:35.668Z"
+ }
+}

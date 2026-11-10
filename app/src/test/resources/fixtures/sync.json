@@ -1,0 +1,592 @@
+{
+ "syncedAt": "2026-11-10T07:50:30.781Z",
+ "meta": {
+  "currency": "so'm",
+  "shippingFee": 25000,
+  "freeShippingFrom": 500000,
+  "maxQtyPerItem": 10,
+  "paymentMethods": [
+   "cash",
+   "card",
+   "payme",
+   "click"
+  ],
+  "orderStatuses": [
+   "new",
+   "processing",
+   "shipped",
+   "delivered",
+   "cancelled"
+  ],
+  "categories": [
+   "men",
+   "women",
+   "kids",
+   "sale"
+  ],
+  "sorts": [
+   "popular",
+   "price_asc",
+   "price_desc",
+   "newest",
+   "rating"
+  ],
+  "artStyles": [
+   "court",
+   "runner",
+   "high",
+   "chunky",
+   "slip",
+   "boot"
+  ],
+  "brands": [
+   "Atlas",
+   "Kora",
+   "Lume",
+   "Nomad",
+   "Velo"
+  ],
+  "sizeRange": {
+   "min": 27,
+   "max": 46
+  }
+ },
+ "user": {
+  "id": 2,
+  "email": "alex@demo.uz",
+  "fullName": "Alex Morgan",
+  "phone": "+998 90 123 45 67",
+  "role": "customer",
+  "shoeSizeEu": 42,
+  "memberSince": "2024-12-20T07:39:35.668Z"
+ },
+ "products": [
+  {
+   "id": 3,
+   "name": "Urban Step",
+   "brand": "Nomad",
+   "type": "Sneakers",
+   "category": "men",
+   "description": "A high-top street classic with a padded collar and a grippy rubber outsole.",
+   "price": 720000,
+   "oldPrice": 890000,
+   "onSale": true,
+   "discountPercent": 19,
+   "artStyle": "high",
+   "imageUrl": null,
+   "isActive": true,
+   "colors": [
+    {
+     "name": "Black",
+     "hex": "#1c1c1e"
+    },
+    {
+     "name": "Stone",
+     "hex": "#d8d4cc"
+    }
+   ],
+   "sizesInStock": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
+   ],
+   "inStock": true,
+   "avgRating": 4.7,
+   "reviewCount": 3,
+   "isFavourite": true,
+   "createdAt": "2026-11-10T07:39:35.668Z",
+   "variants": [
+    {
+     "id": 57,
+     "productId": 3,
+     "size": 39,
+     "colorName": "Black",
+     "colorHex": "#1c1c1e",
+     "stock": 0
+    },
+    {
+     "id": 58,
+     "productId": 3,
+     "size": 40,
+     "colorName": "Black",
+     "colorHex": "#1c1c1e",
+     "stock": 3
+    },
+    {
+     "id": 59,
+     "productId": 3,
+     "size": 41,
+     "colorName": "Black",
+     "colorHex": "#1c1c1e",
+     "stock": 6
+    },
+    {
+     "id": 60,
+     "productId": 3,
+     "size": 42,
+     "colorName": "Black",
+     "colorHex": "#1c1c1e",
+     "stock": 0
+    },
+    {
+     "id": 61,
+     "productId": 3,
+     "size": 43,
+     "colorName": "Black",
+     "colorHex": "#1c1c1e",
+     "stock": 10
+    },
+    {
+     "id": 62,
+     "productId": 3,
+     "size": 44,
+     "colorName": "Black",
+     "colorHex": "#1c1c1e",
+     "stock": 5
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "name": "AirFlex Sneakers",
+   "brand": "Kora",
+   "type": "Sneakers",
+   "category": "unisex",
+   "description": "Lightweight, breathable, and designed for all-day comfort. Step into your style with the perfect blend of performance and design.",
+   "price": 690000,
+   "oldPrice": null,
+   "onSale": false,
+   "discountPercent": 0,
+   "artStyle": "court",
+   "imageUrl": null,
+   "isActive": true,
+   "colors": [
+    {
+     "name": "Beige",
+     "hex": "#cdbfaa"
+    },
+    {
+     "name": "Black",
+     "hex": "#1b1b1d"
+    },
+    {
+     "name": "Brown",
+     "hex": "#7b5a3c"
+    }
+   ],
+   "sizesInStock": [
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45
+   ],
+   "inStock": true,
+   "avgRating": 5,
+   "reviewCount": 3,
+   "isFavourite": true,
+   "createdAt": "2026-11-10T07:39:35.668Z",
+   "variants": [
+    {
+     "id": 17,
+     "productId": 1,
+     "size": 38,
+     "colorName": "Beige",
+     "colorHex": "#cdbfaa",
+     "stock": 5
+    },
+    {
+     "id": 18,
+     "productId": 1,
+     "size": 39,
+     "colorName": "Beige",
+     "colorHex": "#cdbfaa",
+     "stock": 6
+    },
+    {
+     "id": 19,
+     "productId": 1,
+     "size": 40,
+     "colorName": "Beige",
+     "colorHex": "#cdbfaa",
+     "stock": 4
+    },
+    {
+     "id": 20,
+     "productId": 1,
+     "size": 41,
+     "colorName": "Beige",
+     "colorHex": "#cdbfaa",
+     "stock": 3
+    },
+    {
+     "id": 21,
+     "productId": 1,
+     "size": 42,
+     "colorName": "Beige",
+     "colorHex": "#cdbfaa",
+     "stock": 6
+    },
+    {
+     "id": 22,
+     "productId": 1,
+     "size": 43,
+     "colorName": "Beige",
+     "colorHex": "#cdbfaa",
+     "stock": 2
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Street Pulse",
+   "brand": "Nomad",
+   "type": "Sneakers",
+   "category": "men",
+   "description": "Bold chunky silhouette with a durable leather upper and a layered sole.",
+   "price": 810000,
+   "oldPrice": null,
+   "onSale": false,
+   "discountPercent": 0,
+   "artStyle": "chunky",
+   "imageUrl": null,
+   "isActive": true,
+   "colors": [
+    {
+     "name": "Black",
+     "hex": "#232326"
+    },
+    {
+     "name": "Sand",
+     "hex": "#c9b79c"
+    }
+   ],
+   "sizesInStock": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
+   ],
+   "inStock": true,
+   "avgRating": 4.5,
+   "reviewCount": 2,
+   "isFavourite": false,
+   "createdAt": "2026-11-10T07:39:35.668Z",
+   "variants": [
+    {
+     "id": 93,
+     "productId": 5,
+     "size": 40,
+     "colorName": "Black",
+     "colorHex": "#232326",
+     "stock": 8
+    },
+    {
+     "id": 94,
+     "productId": 5,
+     "size": 41,
+     "colorName": "Black",
+     "colorHex": "#232326",
+     "stock": 9
+    },
+    {
+     "id": 95,
+     "productId": 5,
+     "size": 42,
+     "colorName": "Black",
+     "colorHex": "#232326",
+     "stock": 7
+    },
+    {
+     "id": 96,
+     "productId": 5,
+     "size": 43,
+     "colorName": "Black",
+     "colorHex": "#232326",
+     "stock": 10
+    },
+    {
+     "id": 97,
+     "productId": 5,
+     "size": 44,
+     "colorName": "Black",
+     "colorHex": "#232326",
+     "stock": 10
+    },
+    {
+     "id": 98,
+     "productId": 5,
+     "size": 45,
+     "colorName": "Black",
+     "colorHex": "#232326",
+     "stock": 9
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Trail Master",
+   "brand": "Atlas",
+   "type": "Boots",
+   "category": "men",
+   "description": "Waterproof leather boot with a lugged sole for cold, wet and muddy days.",
+   "price": 960000,
+   "oldPrice": null,
+   "onSale": false,
+   "discountPercent": 0,
+   "artStyle": "boot",
+   "imageUrl": null,
+   "isActive": true,
+   "colors": [
+    {
+     "name": "Black",
+     "hex": "#222222"
+    },
+    {
+     "name": "Brown",
+     "hex": "#6b4a2f"
+    }
+   ],
+   "sizesInStock": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
+   ],
+   "inStock": true,
+   "avgRating": 3.7,
+   "reviewCount": 3,
+   "isFavourite": false,
+   "createdAt": "2026-11-10T07:39:35.668Z",
+   "variants": [
+    {
+     "id": 100,
+     "productId": 6,
+     "size": 40,
+     "colorName": "Black",
+     "colorHex": "#222222",
+     "stock": 10
+    },
+    {
+     "id": 101,
+     "productId": 6,
+     "size": 41,
+     "colorName": "Black",
+     "colorHex": "#222222",
+     "stock": 9
+    },
+    {
+     "id": 102,
+     "productId": 6,
+     "size": 42,
+     "colorName": "Black",
+     "colorHex": "#222222",
+     "stock": 5
+    },
+    {
+     "id": 103,
+     "productId": 6,
+     "size": 43,
+     "colorName": "Black",
+     "colorHex": "#222222",
+     "stock": 6
+    },
+    {
+     "id": 104,
+     "productId": 6,
+     "size": 44,
+     "colorName": "Black",
+     "colorHex": "#222222",
+     "stock": 7
+    },
+    {
+     "id": 105,
+     "productId": 6,
+     "size": 45,
+     "colorName": "Black",
+     "colorHex": "#222222",
+     "stock": 2
+    }
+   ]
+  }
+ ],
+ "stockAlertProductIds": [
+  3
+ ],
+ "cart": {
+  "items": [
+   {
+    "variantId": 41,
+    "productId": 2,
+    "name": "Swift Run",
+    "brand": "Velo",
+    "size": 39,
+    "colorName": "Cloud",
+    "colorHex": "#e6e6e8",
+    "artStyle": "runner",
+    "imageUrl": null,
+    "unitPrice": 640000,
+    "qty": 1,
+    "stock": 8,
+    "available": true
+   },
+   {
+    "variantId": 17,
+    "productId": 1,
+    "name": "AirFlex Sneakers",
+    "brand": "Kora",
+    "size": 38,
+    "colorName": "Beige",
+    "colorHex": "#cdbfaa",
+    "artStyle": "court",
+    "imageUrl": null,
+    "unitPrice": 690000,
+    "qty": 1,
+    "stock": 5,
+    "available": true
+   }
+  ],
+  "count": 2,
+  "subtotal": 1330000,
+  "hasUnavailable": false
+ },
+ "addresses": [
+  {
+   "id": 2,
+   "label": "Home",
+   "line": "Chilonzor 9, apt 12",
+   "city": "Tashkent",
+   "phone": "+998 90 123 45 67",
+   "isDefault": true
+  },
+  {
+   "id": 1,
+   "label": "Work",
+   "line": "Amir Temur 15, floor 3",
+   "city": "Tashkent",
+   "phone": "+998 90 123 45 67",
+   "isDefault": false
+  }
+ ],
+ "orders": [
+  {
+   "id": 2,
+   "status": "shipped",
+   "subtotal": 640000,
+   "shippingFee": 0,
+   "discount": 0,
+   "total": 640000,
+   "couponCode": null,
+   "addressLine": "Chilonzor 9, apt 12",
+   "city": "Tashkent",
+   "phone": "+998 90 123 45 67",
+   "paymentMethod": "click",
+   "createdAt": "2026-11-08T07:39:35.668Z",
+   "updatedAt": "2026-11-10T07:21:35.668Z",
+   "items": [
+    {
+     "id": 2,
+     "productId": 2,
+     "variantId": 44,
+     "name": "Swift Run",
+     "brand": "Velo",
+     "size": 42,
+     "colorName": "Cloud",
+     "colorHex": "#e6e6e8",
+     "artStyle": "runner",
+     "unitPrice": 640000,
+     "qty": 1
+    }
+   ],
+   "itemCount": 1
+  },
+  {
+   "id": 1,
+   "status": "delivered",
+   "subtotal": 560000,
+   "shippingFee": 0,
+   "discount": 0,
+   "total": 560000,
+   "couponCode": null,
+   "addressLine": "Chilonzor 9, apt 12",
+   "city": "Tashkent",
+   "phone": "+998 90 123 45 67",
+   "paymentMethod": "payme",
+   "createdAt": "2026-10-06T07:39:35.668Z",
+   "updatedAt": "2026-10-10T07:39:35.668Z",
+   "items": [
+    {
+     "id": 1,
+     "productId": 9,
+     "variantId": 161,
+     "name": "Court Classic",
+     "brand": "Velo",
+     "size": 42,
+     "colorName": "White",
+     "colorHex": "#f4f4f2",
+     "artStyle": "court",
+     "unitPrice": 560000,
+     "qty": 1
+    }
+   ],
+   "itemCount": 1
+  }
+ ],
+ "notifications": [
+  {
+   "id": 1,
+   "kind": "restock",
+   "title": "Restock alert",
+   "body": "The Urban Step restock is live in your size.",
+   "productId": 3,
+   "orderId": null,
+   "isRead": false,
+   "createdAt": "2026-11-10T07:37:35.668Z"
+  },
+  {
+   "id": 2,
+   "kind": "order",
+   "title": "Order update",
+   "body": "Your Swift Run order has shipped.",
+   "productId": null,
+   "orderId": 2,
+   "isRead": false,
+   "createdAt": "2026-11-10T07:21:35.668Z"
+  },
+  {
+   "id": 3,
+   "kind": "price_drop",
+   "title": "Price drop",
+   "body": "The Urban Step is now 720 000 so'm.",
+   "productId": 3,
+   "orderId": null,
+   "isRead": true,
+   "createdAt": "2026-11-10T06:39:35.668Z"
+  },
+  {
+   "id": 4,
+   "kind": "drop",
+   "title": "New drop alert",
+   "body": "Metro Hi just landed in Olive and Sand.",
+   "productId": 11,
+   "orderId": null,
+   "isRead": true,
+   "createdAt": "2026-11-09T07:39:35.668Z"
+  }
+ ],
+ "unreadCount": 2
+}

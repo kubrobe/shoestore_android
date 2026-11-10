@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Debug builds only: allows plain http:// so the app can talk to a server on your own computer
+     (the emulator reaches your computer at http://10.0.2.2:3000). The release build is https only. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application android:usesCleartextTraffic="true" />
+</manifest>

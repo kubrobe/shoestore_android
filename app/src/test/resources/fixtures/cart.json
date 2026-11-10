@@ -1,0 +1,67 @@
+{
+ "items": [
+  {
+   "variantId": 41,
+   "productId": 2,
+   "name": "Swift Run",
+   "brand": "Velo",
+   "size": 39,
+   "colorName": "Cloud",
+   "colorHex": "#e6e6e8",
+   "artStyle": "runner",
+   "imageUrl": null,
+   "unitPrice": 640000,
+   "qty": 1,
+   "stock": 8,
+   "available": true
+  },
+  {
+   "variantId": 17,
+   "productId": 1,
+   "name": "AirFlex Sneakers",
+   "brand": "Kora",
+   "size": 38,
+   "colorName": "Beige",
+   "colorHex": "#cdbfaa",
+   "artStyle": "court",
+   "imageUrl": null,
+   "unitPrice": 690000,
+   "qty": 1,
+   "stock": 5,
+   "available": true
+  },
+  {
+   "variantId": 58,
+   "productId": 3,
+   "name": "Urban Step",
+   "brand": "Nomad",
+   "size": 40,
+   "colorName": "Black",
+   "colorHex": "#1c1c1e",
+   "artStyle": "high",
+   "imageUrl": null,
+   "unitPrice": 720000,
+   "qty": 2,
+   "stock": 3,
+   "available": true
+  },
+  {
+   "variantId": 93,
+   "productId": 5,
+   "name": "Street Pulse",
+   "brand": "Nomad",
+   "size": 40,
+   "colorName": "Black",
+   "colorHex": "#232326",
+   "artStyle": "chunky",
+   "imageUrl": null,
+   "unitPrice": 810000,
+   "qty": 2,
+   "stock": 8,
+   "available": true
+  }
+ ],
+ "count": 6,
+ "subtotal": 4390000,
+ "hasUnavailable": false
+}

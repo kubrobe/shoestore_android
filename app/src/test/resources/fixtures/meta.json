@@ -1,0 +1,51 @@
+{
+ "currency": "so'm",
+ "shippingFee": 25000,
+ "freeShippingFrom": 500000,
+ "maxQtyPerItem": 10,
+ "paymentMethods": [
+  "cash",
+  "card",
+  "payme",
+  "click"
+ ],
+ "orderStatuses": [
+  "new",
+  "processing",
+  "shipped",
+  "delivered",
+  "cancelled"
+ ],
+ "categories": [
+  "men",
+  "women",
+  "kids",
+  "sale"
+ ],
+ "sorts": [
+  "popular",
+  "price_asc",
+  "price_desc",
+  "newest",
+  "rating"
+ ],
+ "artStyles": [
+  "court",
+  "runner",
+  "high",
+  "chunky",
+  "slip",
+  "boot"
+ ],
+ "brands": [
+  "Atlas",
+  "Kora",
+  "Lume",
+  "Nomad",
+  "Velo"
+ ],
+ "sizeRange": {
+  "min": 27,
+  "max": 46
+ }
+}

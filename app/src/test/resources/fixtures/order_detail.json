@@ -1,0 +1,78 @@
+{
+ "order": {
+  "id": 7,
+  "status": "new",
+  "subtotal": 4390000,
+  "shippingFee": 0,
+  "discount": 439000,
+  "total": 3951000,
+  "couponCode": "WELCOME10",
+  "addressLine": "Chilonzor 9, apt 12",
+  "city": "Tashkent",
+  "phone": "+998 90 123 45 67",
+  "paymentMethod": "payme",
+  "createdAt": "2026-11-10T07:50:30.846Z",
+  "updatedAt": "2026-11-10T07:50:30.846Z",
+  "items": [
+   {
+    "id": 7,
+    "productId": 1,
+    "variantId": 17,
+    "name": "AirFlex Sneakers",
+    "brand": "Kora",
+    "size": 38,
+    "colorName": "Beige",
+    "colorHex": "#cdbfaa",
+    "artStyle": "court",
+    "unitPrice": 690000,
+    "qty": 1
+   },
+   {
+    "id": 8,
+    "productId": 2,
+    "variantId": 41,
+    "name": "Swift Run",
+    "brand": "Velo",
+    "size": 39,
+    "colorName": "Cloud",
+    "colorHex": "#e6e6e8",
+    "artStyle": "runner",
+    "unitPrice": 640000,
+    "qty": 1
+   },
+   {
+    "id": 9,
+    "productId": 3,
+    "variantId": 58,
+    "name": "Urban Step",
+    "brand": "Nomad",
+    "size": 40,
+    "colorName": "Black",
+    "colorHex": "#1c1c1e",
+    "artStyle": "high",
+    "unitPrice": 720000,
+    "qty": 2
+   },
+   {
+    "id": 10,
+    "productId": 5,
+    "variantId": 93,
+    "name": "Street Pulse",
+    "brand": "Nomad",
+    "size": 40,
+    "colorName": "Black",
+    "colorHex": "#232326",
+    "artStyle": "chunky",
+    "unitPrice": 810000,
+    "qty": 2
+   }
+  ],
+  "itemCount": 6,
+  "history": [
+   {
+    "status": "new",
+    "at": "2026-11-10T07:50:30.846Z"
+   }
+  ]
+ }
+}

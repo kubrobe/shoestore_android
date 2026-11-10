@@ -1,0 +1,207 @@
+{
+ "product": {
+  "id": 3,
+  "name": "Urban Step",
+  "brand": "Nomad",
+  "type": "Sneakers",
+  "category": "men",
+  "description": "A high-top street classic with a padded collar and a grippy rubber outsole.",
+  "price": 720000,
+  "oldPrice": 890000,
+  "onSale": true,
+  "discountPercent": 19,
+  "artStyle": "high",
+  "imageUrl": null,
+  "isActive": true,
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#1c1c1e"
+   },
+   {
+    "name": "Stone",
+    "hex": "#d8d4cc"
+   }
+  ],
+  "sizesInStock": [
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46
+  ],
+  "inStock": true,
+  "avgRating": 4.7,
+  "reviewCount": 3,
+  "isFavourite": false,
+  "createdAt": "2026-11-10T07:39:35.668Z",
+  "hasAlert": false,
+  "variants": [
+   {
+    "id": 57,
+    "productId": 3,
+    "size": 39,
+    "colorName": "Black",
+    "colorHex": "#1c1c1e",
+    "stock": 0
+   },
+   {
+    "id": 58,
+    "productId": 3,
+    "size": 40,
+    "colorName": "Black",
+    "colorHex": "#1c1c1e",
+    "stock": 3
+   },
+   {
+    "id": 59,
+    "productId": 3,
+    "size": 41,
+    "colorName": "Black",
+    "colorHex": "#1c1c1e",
+    "stock": 6
+   },
+   {
+    "id": 60,
+    "productId": 3,
+    "size": 42,
+    "colorName": "Black",
+    "colorHex": "#1c1c1e",
+    "stock": 0
+   },
+   {
+    "id": 61,
+    "productId": 3,
+    "size": 43,
+    "colorName": "Black",
+    "colorHex": "#1c1c1e",
+    "stock": 10
+   },
+   {
+    "id": 62,
+    "productId": 3,
+    "size": 44,
+    "colorName": "Black",
+    "colorHex": "#1c1c1e",
+    "stock": 5
+   },
+   {
+    "id": 63,
+    "productId": 3,
+    "size": 45,
+    "colorName": "Black",
+    "colorHex": "#1c1c1e",
+    "stock": 9
+   },
+   {
+    "id": 64,
+    "productId": 3,
+    "size": 46,
+    "colorName": "Black",
+    "colorHex": "#1c1c1e",
+    "stock": 4
+   },
+   {
+    "id": 49,
+    "productId": 3,
+    "size": 39,
+    "colorName": "Stone",
+    "colorHex": "#d8d4cc",
+    "stock": 3
+   },
+   {
+    "id": 50,
+    "productId": 3,
+    "size": 40,
+    "colorName": "Stone",
+    "colorHex": "#d8d4cc",
+    "stock": 9
+   },
+   {
+    "id": 51,
+    "productId": 3,
+    "size": 41,
+    "colorName": "Stone",
+    "colorHex": "#d8d4cc",
+    "stock": 8
+   },
+   {
+    "id": 52,
+    "productId": 3,
+    "size": 42,
+    "colorName": "Stone",
+    "colorHex": "#d8d4cc",
+    "stock": 1
+   },
+   {
+    "id": 53,
+    "productId": 3,
+    "size": 43,
+    "colorName": "Stone",
+    "colorHex": "#d8d4cc",
+    "stock": 6
+   },
+   {
+    "id": 54,
+    "productId": 3,
+    "size": 44,
+    "colorName": "Stone",
+    "colorHex": "#d8d4cc",
+    "stock": 10
+   },
+   {
+    "id": 55,
+    "productId": 3,
+    "size": 45,
+    "colorName": "Stone",
+    "colorHex": "#d8d4cc",
+    "stock": 2
+   },
+   {
+    "id": 56,
+    "productId": 3,
+    "size": 46,
+    "colorName": "Stone",
+    "colorHex": "#d8d4cc",
+    "stock": 9
+   }
+  ],
+  "canReview": false,
+  "ratingBreakdown": {
+   "1": 0,
+   "2": 0,
+   "3": 0,
+   "4": 1,
+   "5": 2
+  },
+  "reviews": [
+   {
+    "id": 7,
+    "rating": 5,
+    "comment": "Fast delivery and neat packaging.",
+    "author": "Aziza K.",
+    "mine": false,
+    "createdAt": "2026-11-04T07:39:35.668Z"
+   },
+   {
+    "id": 8,
+    "rating": 4,
+    "comment": "Great quality for the price.",
+    "author": "Bobur R.",
+    "mine": false,
+    "createdAt": "2026-10-19T07:39:35.668Z"
+   },
+   {
+    "id": 6,
+    "rating": 5,
+    "comment": "Looks even better in real life.",
+    "author": "Alex M.",
+    "mine": false,
+    "createdAt": "2026-09-13T07:39:35.668Z"
+   }
+  ]
+ }
+}

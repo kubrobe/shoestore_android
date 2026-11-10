@@ -1,0 +1,55 @@
+{
+ "notifications": [
+  {
+   "id": 12,
+   "kind": "order",
+   "title": "Order placed",
+   "body": "We received your AirFlex Sneakers and 3 more order. Thank you!",
+   "productId": null,
+   "orderId": 7,
+   "isRead": false,
+   "createdAt": "2026-11-10T07:50:30.846Z"
+  },
+  {
+   "id": 1,
+   "kind": "restock",
+   "title": "Restock alert",
+   "body": "The Urban Step restock is live in your size.",
+   "productId": 3,
+   "orderId": null,
+   "isRead": false,
+   "createdAt": "2026-11-10T07:37:35.668Z"
+  },
+  {
+   "id": 2,
+   "kind": "order",
+   "title": "Order update",
+   "body": "Your Swift Run order has shipped.",
+   "productId": null,
+   "orderId": 2,
+   "isRead": false,
+   "createdAt": "2026-11-10T07:21:35.668Z"
+  },
+  {
+   "id": 3,
+   "kind": "price_drop",
+   "title": "Price drop",
+   "body": "The Urban Step is now 720 000 so'm.",
+   "productId": 3,
+   "orderId": null,
+   "isRead": true,
+   "createdAt": "2026-11-10T06:39:35.668Z"
+  },
+  {
+   "id": 4,
+   "kind": "drop",
+   "title": "New drop alert",
+   "body": "Metro Hi just landed in Olive and Sand.",
+   "productId": 11,
+   "orderId": null,
+   "isRead": true,
+   "createdAt": "2026-11-09T07:39:35.668Z"
+  }
+ ],
+ "unreadCount": 3
+}
